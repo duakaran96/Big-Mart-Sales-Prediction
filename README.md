@@ -9,3 +9,5 @@ WorkFlow:
 - Visualize distributions and correlation of features using seaborn and pandas
 - Build various regression models taking the selected features through feature engineering and compare their scores
 - Pedict the item_outlet_sales for the test data
+
+The project is done as a mandatory Final Project under the Machine Learning Course at [Acadview](https://www.acadview.com) under the guindance of [Mr. Shreyas Raghavan](https://github.com/Shreyas3108) and [Ms. Meghna P Ayyar](https://github.com/leomi7)
